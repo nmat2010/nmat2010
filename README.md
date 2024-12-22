@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 👨‍💻 All of my projects are available at [https://nmat2010.github.io/thunguyen-website/](https://nmat2010.github.io/thunguyen-website/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
 
 - 💬 Ask me about **SciPy, OpenCV, Pandas**
 
 - 📫 How to reach me **thunma2010@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I'm a great homecook**
 
