@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Thu Nguyen</h1>
 <h3 align="center">A Computer Engineer Student from Vietnam</h3>
 
-- I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
+- I’m currently working on [Stony Brook University Food Application](https://github.com/nmat2010/sbu-food-app)
 
-- I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Robotics Development*
+- I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Robotics Development**
 
 - I’m looking to collaborate on **Full-stack Development**
 
