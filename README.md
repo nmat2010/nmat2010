@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Thu Nguyen</h1>
 <h3 align="center">A Computer Engineer Student from Vietnam</h3>
 
--  <img src="https://img.icons8.com/?size=100&id=10758&format=png&color=000000">I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
+- I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
 
-- 🌱 I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Robotics Development*
+- I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Robotics Development*
 
-- 👯 I’m looking to collaborate on **Full-stack Development**
+- I’m looking to collaborate on **Full-stack Development**
 
-- 👨‍💻 Learn more about me at my [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
+- Learn more about me at my [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
 
-- 📫 Reach me at **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
+- Reach me at **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
 
-- 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
+- Know about my experiences through my [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
