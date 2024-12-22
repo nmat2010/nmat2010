@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Thu Nguyen</h1>
-<h3 align="center">A passionate Computer Engineer from Vietnam</h3>
+<h1 align="center">Hi, I'm Thu Nguyen</h1>
+<h3 align="center">A Computer Engineer Student from Vietnam</h3>
 
-- 🔭 I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
+- <img src="data:image/svg+xml,%3csvg stroke-width='1.5' id='Layer_1' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3e%3cdefs%3e%3cstyle%3e.cls-2awgebi0jyb85c3wffw0ru-1%7bfill:none%3bstroke:%237047FF%3bstroke-miterlimit:10%3b%3b%7d%3c/style%3e%3c/defs%3e%3cpath class='cls-2awgebi0jyb85c3wffw0ru-1' d='M5.32 3.41h13.36a1.91 1.91 0 0 1 1.91 1.91v11.45H3.41V5.32a1.91 1.91 0 0 1 1.91-1.91Z'/%3e%3cpath class='cls-2awgebi0jyb85c3wffw0ru-1' d='M1.5 16.77h21v1.91a1.91 1.91 0 0 1-1.91 1.91H3.41a1.91 1.91 0 0 1-1.91-1.91v-1.91Z'/%3e%3c/svg%3e"> I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
 
-- 🌱 I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Hardware Design**
+- 🌱 I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Robotics Development*
 
 - 👯 I’m looking to collaborate on **Full-stack Development**
 
