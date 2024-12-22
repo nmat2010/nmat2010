@@ -1,25 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thu Nguyen</h1>
 <h3 align="center">A passionate Computer Engineer from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmat2010&label=Profile%20views&color=0e75b6&style=flat" alt="nmat2010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmat2010" alt="nmat2010" /></a> </p>
-
 - 🔭 I’m currently working on [Stony Brook University Food App](https://github.com/nmat2010/sbu-food-app)
 
-- 🌱 I’m currently learning **React, TensorFlow**
+- 🌱 I’m currently learning **Data Structures & Algorithm, Data Science & Machine Learning, Hardware Design**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Full-stack Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
+- 👨‍💻 Learn more about me at [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
 
-- 💬 Ask me about **SciPy, OpenCV, Pandas**
-
-- 📫 How to reach me **thunma2010@gmail.com**
+- 📫 How to reach me **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I'm a great homecook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
