@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Full-stack Development**
 
-- 👨‍💻 Learn more about me at [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
+- 👨‍💻 Learn more about me at my [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
 
-- 📫 How to reach me **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
+- 📫 Reach me at **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
+- 📄 Know about my experiences through my [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
