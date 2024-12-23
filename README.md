@@ -11,8 +11,6 @@
 
 - Reach me at **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
 
-- Learn more about my experiences through my [Resume](https://docs.google.com/document/d/144RTolluh0JK537biyc-fDPT_BIzz0pU/edit?usp=sharing&ouid=118048886113669286609&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thu nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thu nguyen" height="30" width="40" /></a>
