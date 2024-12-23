@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thu Nguyen</h1>
-<h3 align="center">A Computer Engineering Student from Vietnam</h3>
+<h3 align="center">A Computer Engineering Student from Vietnam 🇻🇳</h3>
 
 - I’m currently working on [Stony Brook University Food Application](https://www.figma.com/proto/CMdT5eWOPGmS4EUpxfZG83/Meal-Price-Tracker-Initial-Design?node-id=1-2567&p=f&t=95yFp2fUohngTvCo-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2567)
 
