@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **Full-stack Development**
 
-- Learn more about me at my [Portfolio Website](https://nmat2010.github.io/thunguyen-website/)
+- Learn more about me at my **[Portfolio Website](https://nmat2010.github.io/thunguyen-website/)**
 
 - Reach me at **thunma2010@gmail.com** or **thu.m.nguyen@stonybrook.edu**
 
